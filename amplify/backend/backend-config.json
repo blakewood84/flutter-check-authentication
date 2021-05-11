@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "fluttercheckauthenti52191c39": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

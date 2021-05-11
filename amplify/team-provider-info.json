@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fluttercheckauthenti-dev-94233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::146940496492:role/amplify-fluttercheckauthenti-dev-94233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::146940496492:role/amplify-fluttercheckauthenti-dev-94233-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-fluttercheckauthenti-dev-94233-deployment",
+      "UnauthRoleName": "amplify-fluttercheckauthenti-dev-94233-unauthRole",
+      "StackName": "amplify-fluttercheckauthenti-dev-94233",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:146940496492:stack/amplify-fluttercheckauthenti-dev-94233/e7ebe160-b277-11eb-a2e0-0a38f02b7fe2",
+      "AmplifyAppId": "d3c7chq2wbpe0o"
+    }
+  },
+  "blake": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fluttercheckauthenti-blake-115658-authRole",
+      "UnauthRoleArn": "arn:aws:iam::335924608707:role/amplify-fluttercheckauthenti-blake-115658-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::335924608707:role/amplify-fluttercheckauthenti-blake-115658-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fluttercheckauthenti-blake-115658-deployment",
+      "UnauthRoleName": "amplify-fluttercheckauthenti-blake-115658-unauthRole",
+      "StackName": "amplify-fluttercheckauthenti-blake-115658",
+      "StackId": "arn:aws:cloudformation:us-west-2:335924608707:stack/amplify-fluttercheckauthenti-blake-115658/b30fa4f0-b28a-11eb-98de-0650555310a3",
+      "AmplifyAppId": "d1f2vb5w0ittzy"
+    },
+    "categories": {
+      "auth": {
+        "fluttercheckauthenti52191c39": {}
+      }
+    }
+  }
+}
