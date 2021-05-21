@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:amplify_flutter/amplify.dart';
 import 'package:amplify_auth_cognito/amplify_auth_cognito.dart';
 import 'package:flutter_checkauthentication/amplifyconfiguration.dart';
-import 'package:flutter_checkauthentication/authentication/check_authentication.dart';
+import 'package:flutter_checkauthentication/screens/authentication/check_authentication.dart';
 
 void main() {
   runApp(MyApp());

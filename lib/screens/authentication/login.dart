@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:validators/validators.dart';
 import 'package:flutter_checkauthentication/widgets/widgets.dart';
-import 'package:flutter_checkauthentication/authentication/signup.dart';
-import 'package:flutter_checkauthentication/authentication/password_reset.dart';
+import 'package:flutter_checkauthentication/screens/authentication/signup.dart';
+import 'package:flutter_checkauthentication/screens/authentication/password_reset.dart';
 
 class Login extends StatefulWidget {
   @override
@@ -92,7 +92,7 @@ class _LoginState extends State<Login> {
                           Container(
                             child: ElevatedButton(
                               onPressed: () {
-                                if (_formKey.currentState!.validate()) {
+                                if (_formKey.currentState.validate()) {
                                   login();
                                 }
                               }, //=> login()},

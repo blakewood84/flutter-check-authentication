@@ -12,14 +12,14 @@ class TextFieldWidget extends StatelessWidget {
   final bool obscureText;
 
   TextFieldWidget({
-    required this.readOnly,
-    required this.textInputType,
-    required this.maxLines,
-    required this.obscureText,
-    required this.initialValue,
-    required this.onChanged,
-    required this.validator,
-    required this.labelText,
+    @required this.readOnly,
+    @required this.textInputType,
+    @required this.maxLines,
+    @required this.obscureText,
+    @required this.initialValue,
+    @required this.onChanged,
+    @required this.validator,
+    @required this.labelText,
   });
 
   @override
